@@ -1,0 +1,17 @@
+.panel {
+  
+    background-image: linear-gradient(to bottom right, #e7ffffd7, #f6d3a2d6), url('../../../../assets/fondoPanel/fondo_panel2.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    padding-bottom: 20%;
+    min-height: 100vh;
+}
+
+.card-body{
+    /* background-color: linear-gradient(to bottom right, #e7ffffa1, #f6d3a2b2) !important; */
+    opacity: 65%;
+    background-color: rgba(245, 240, 240, 0.342)
+    
+}
+
+
